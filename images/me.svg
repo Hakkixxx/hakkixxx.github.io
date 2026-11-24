@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<rect width="800" height="1000" fill="#0f8f8a"/>
+<path d="M0 820 H800" stroke="#121412" stroke-opacity=".12" stroke-width="2"/>
+<circle cx="400" cy="380" r="150" fill="#121412" opacity=".85"/>
+<path d="M150 1000 C150 760 650 760 650 1000Z" fill="#121412" opacity=".85"/>
+<rect x="250" y="874" width="300" height="68" rx="34" fill="#121412"/>
+<text x="400" y="917" text-anchor="middle" font-family="monospace" font-weight="700" font-size="24" fill="#f5c518" letter-spacing="3">FOTO GELECEK</text>
+</svg>

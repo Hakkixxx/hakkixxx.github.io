@@ -1,0 +1,20 @@
+# Hakkı Kaan Yeşil
+
+> Kişisel web sitesi. Akdeniz Üniversitesi Teknik Bilimler MYO Bilgisayar Programcılığı öğrencisi (Antalya). Yapay zeka araçları, skill yazımı, Python ve Photoshop üzerine projeler ve blog.
+> Personal website of Hakkı Kaan Yeşil, a Computer Programming student at Akdeniz University (Vocational School of Technical Sciences), Antalya. Projects and blog about AI tools, agent skills, Python and Photoshop.
+
+Site Türkçe (/tr) ve İngilizce (/en) yayınlanır. / The site is available in Turkish (/tr) and English (/en).
+
+## Sayfalar / Pages
+- [Ana sayfa / Home](/tr): Kısa tanıtım, projeler ve galeriden örnekler.
+- [Hakkımda / About](/tr/about): Özgeçmiş, ders programı, yetenekler, ilgi alanları.
+- [Projeler / Projects](/tr/projects): Grafik Animasyon 1 dersi Photoshop çalışmaları (History Brush, ürün tanıtımı, karakalem renklendirme, Smart Object, web arayüzü).
+- [Blog](/tr/blog): Kendi skill'imi yazdım (self-improving-skills), Photoshop öğreniyorum, Python ile ilk otomasyonum.
+- [Galeri / Gallery](/tr/gallery): Beni yansıtan kareler.
+- [İletişim / Contact](/tr/contact): Adres, telefon, e-posta ve form.
+
+## Önemli bilgiler / Key facts
+- Ad / Name: Hakkı Kaan Yeşil
+- Okul / School: Akdeniz Üniversitesi, Teknik Bilimler Meslek Yüksekokulu, Bilgisayar Programcılığı (Ön Lisans)
+- GitHub: https://github.com/Hakkixxx
+- Açık kaynak proje / Open-source project: https://github.com/Hakkixxx/self-improving-skills (MIT)
